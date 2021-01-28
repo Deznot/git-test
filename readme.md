@@ -1,7 +1,7 @@
 # Curriculum vitae (CV)
 
-1. **Denis Selitsky**
-2. ## Personal information*
+1. ## Denis Selitsky
+2. ## Personal information
 
    Address:  Zhlobin, Belarus<br>
    Telephone: mobile: +375295621456<br>
@@ -10,7 +10,7 @@
    Nationality: Belarus<br>
    Marital status: single<br>
 
-3. ## Personal qualities:
+3. ## Personal qualities
 
    * Versatile
    * Perceptive
